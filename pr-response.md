@@ -1,5 +1,9 @@
 # PR Response Doc — CineLog Watchlist Feature
 
+## Commit History
+
+![git log --oneline output](docs/commit-log.png)
+
 ## AI Usage
 I used Claude throughout this project for several specific purposes:
 
